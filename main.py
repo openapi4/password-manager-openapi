@@ -124,6 +124,7 @@ generate_button.grid(row=3, column=2, padx=3, pady=3)
 "feature-3 commit 2"
 
 "master commit 5"
+"master commit 6"
 
 
 app.mainloop()
